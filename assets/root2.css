@@ -1,0 +1,23 @@
+:root {
+    --fs-64: 40px;
+    --fs-50: 32px;
+    --fs-30: 30px;
+    --fw-400: 400;
+}
+
+.fs-64 {
+    font-size: var(--fs-64);
+}
+ 
+@media (min-width:576px) {
+    :root {
+        --fs-64: 64px;
+        --fs-50: 50px;
+        --fs-30: 30px;
+    }
+
+}
+
+
+
+ 
