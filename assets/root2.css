@@ -9,11 +9,11 @@
     font-size: var(--fs-64);
 }
  
-@media (min-width:576px) {
+@media (min-width:768px) {
     :root {
         --fs-64: 64px;
         --fs-50: 50px;
-        --fs-30: 30px;
+        --fs-30: 45px;
     }
 
 }
