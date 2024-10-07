@@ -12,10 +12,9 @@
 @media (min-width:768px) {
     :root {
         --fs-64: 64px;
-        --fs-50: 50px;
-        --fs-30: 45px;
+        --fs-50: 60px;
+        --fs-30: 50px;
     }
-
 }
 
 
