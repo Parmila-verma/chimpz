@@ -12,4 +12,4 @@ menuIcon.addEventListener("click", () => {
          <ion-icon name="menu-outline"  class="mobile-icons"></ion-icon>
         `;
     }
-});
+});  
